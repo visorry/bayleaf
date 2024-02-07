@@ -14,6 +14,11 @@ Welcome to BayLeaf Plants Shop, your go-to destination for buying indoor plants 
 
 To explore BayLeaf Plants Shop, simply visit [http://bayleaf.free.nf](http://bayleaf.free.nf).
 
+Feel free to log in with the following user credentials:
+
+- **Email:** vishnu@a.com
+- **Password:** vishnu
+
 ## Features
 
 - Browse and buy a variety of indoor plants.
