@@ -18,7 +18,7 @@ The Plant E-commerce Website is a web application designed to provide users with
 
 ## Sample Landing Page
 
-[Screenshot 2024-02-07 134214](https://github.com/visorry/bayleaf/assets/121347308/90e3fc4c-531c-4c63-b3be-fef29ebf5e05)
+![Sample Landing Page](https://github.com/visorry/bayleaf/assets/121347308/90e3fc4c-531c-4c63-b3be-fef29ebf5e05)
 
 ## Features
 
