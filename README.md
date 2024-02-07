@@ -16,6 +16,10 @@
 
 The Plant E-commerce Website is a web application designed to provide users with a seamless experience for exploring and purchasing various plants and gardening products. It includes essential features such as user authentication, product browsing, shopping cart management, and a secure checkout process.
 
+## Sample Landing Page
+
+[Screenshot 2024-02-07 134214](https://github.com/visorry/bayleaf/assets/121347308/90e3fc4c-531c-4c63-b3be-fef29ebf5e05)
+
 ## Features
 
 ###  User Authentication and Customer Accounts
